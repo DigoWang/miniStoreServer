@@ -1,0 +1,2912 @@
+[
+    {
+        "grade": 1,
+        "name": "手机",
+        "id": 653,
+        "parentId": 9987
+    },
+    {
+        "grade": 1,
+        "name": "手机配件",
+        "id": 830,
+        "parentId": 9987
+    },
+    {
+        "grade": 1,
+        "name": "运营商",
+        "id": 6880,
+        "parentId": 9987
+    },
+    {
+        "grade": 1,
+        "name": "手机服务",
+        "id": 12854,
+        "parentId": 9987
+    },
+    {
+        "grade": 1,
+        "name": "对讲机",
+        "id": 18523,
+        "parentId": 9987
+    },
+    {
+        "grade": 1,
+        "name": "摄影摄像",
+        "id": 654,
+        "parentId": 652
+    },
+    {
+        "grade": 1,
+        "name": "数码配件",
+        "id": 829,
+        "parentId": 652
+    },
+    {
+        "grade": 1,
+        "name": "影音娱乐",
+        "id": 828,
+        "parentId": 652
+    },
+    {
+        "grade": 1,
+        "name": "智能设备",
+        "id": 12345,
+        "parentId": 652
+    },
+    {
+        "grade": 1,
+        "name": "电子教育",
+        "id": 12346,
+        "parentId": 652
+    },
+    {
+        "grade": 1,
+        "name": "数码维修",
+        "id": 16951,
+        "parentId": 652
+    },
+    {
+        "grade": 1,
+        "name": "外设产品",
+        "id": 686,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "电脑组件",
+        "id": 677,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "网络产品",
+        "id": 699,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "电脑整机",
+        "id": 671,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "办公设备",
+        "id": 716,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "文具",
+        "id": 729,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "赠品",
+        "id": 807,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "游戏设备",
+        "id": 12800,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "办公耗材",
+        "id": 21076,
+        "parentId": 670
+    },
+    {
+        "grade": 1,
+        "name": "生活电器",
+        "id": 738,
+        "parentId": 737
+    },
+    {
+        "grade": 1,
+        "name": "厨房小电",
+        "id": 752,
+        "parentId": 737
+    },
+    {
+        "grade": 1,
+        "name": "大 家 电",
+        "id": 794,
+        "parentId": 737
+    },
+    {
+        "grade": 1,
+        "name": "个护健康",
+        "id": 1276,
+        "parentId": 737
+    },
+    {
+        "grade": 1,
+        "name": "厨卫大电",
+        "id": 13297,
+        "parentId": 737
+    },
+    {
+        "grade": 1,
+        "name": "商用电器",
+        "id": 14857,
+        "parentId": 737
+    },
+    {
+        "grade": 1,
+        "name": "视听影音",
+        "id": 17407,
+        "parentId": 737
+    },
+    {
+        "grade": 1,
+        "name": "休闲食品",
+        "id": 1583,
+        "parentId": 1320
+    },
+    {
+        "grade": 1,
+        "name": "地方特产",
+        "id": 1581,
+        "parentId": 1320
+    },
+    {
+        "grade": 1,
+        "name": "饮料冲调",
+        "id": 1585,
+        "parentId": 1320
+    },
+    {
+        "grade": 1,
+        "name": "粮油调味",
+        "id": 1584,
+        "parentId": 1320
+    },
+    {
+        "grade": 1,
+        "name": "节庆食品/礼券",
+        "id": 2641,
+        "parentId": 1320
+    },
+    {
+        "grade": 1,
+        "name": "进口食品",
+        "id": 5019,
+        "parentId": 1320
+    },
+    {
+        "grade": 1,
+        "name": "茗茶",
+        "id": 12202,
+        "parentId": 1320
+    },
+    {
+        "grade": 1,
+        "name": "服饰配件",
+        "id": 1346,
+        "parentId": 1315
+    },
+    {
+        "grade": 1,
+        "name": "内衣",
+        "id": 1345,
+        "parentId": 1315
+    },
+    {
+        "grade": 1,
+        "name": "女装",
+        "id": 1343,
+        "parentId": 1315
+    },
+    {
+        "grade": 1,
+        "name": "男装",
+        "id": 1342,
+        "parentId": 1315
+    },
+    {
+        "grade": 1,
+        "name": "洗衣服务",
+        "id": 13529,
+        "parentId": 1315
+    },
+    {
+        "grade": 1,
+        "name": "香水彩妆",
+        "id": 1387,
+        "parentId": 1316
+    },
+    {
+        "grade": 1,
+        "name": "面部护肤",
+        "id": 1381,
+        "parentId": 1316
+    },
+    {
+        "grade": 1,
+        "name": "男士面部护肤",
+        "id": 16831,
+        "parentId": 1316
+    },
+    {
+        "grade": 1,
+        "name": "美妆工具",
+        "id": 16832,
+        "parentId": 1316
+    },
+    {
+        "grade": 1,
+        "name": "户外装备",
+        "id": 1462,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "健身训练",
+        "id": 1463,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "体育用品",
+        "id": 1466,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "户外鞋服",
+        "id": 2628,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "运动鞋包",
+        "id": 12099,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "运动服饰",
+        "id": 12102,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "骑行运动",
+        "id": 12115,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "游泳用品",
+        "id": 12154,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "垂钓用品",
+        "id": 12147,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "体育服务",
+        "id": 15293,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "运动护具",
+        "id": 15684,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "瑜伽舞蹈",
+        "id": 15700,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "马术/民俗运动",
+        "id": 15763,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "冰上运动",
+        "id": 17040,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "武术搏击",
+        "id": 17122,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "棋牌麻将",
+        "id": 17228,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "轮滑滑板",
+        "id": 17229,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "滑雪运动",
+        "id": 17342,
+        "parentId": 1318
+    },
+    {
+        "grade": 1,
+        "name": "营养辅食",
+        "id": 1524,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "尿裤湿巾",
+        "id": 1525,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "喂养用品",
+        "id": 1526,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "洗护用品",
+        "id": 1527,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "奶粉",
+        "id": 1523,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "童车童床",
+        "id": 1528,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "赠品",
+        "id": 4979,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "妈妈专区",
+        "id": 4997,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "婴童寝居",
+        "id": 6313,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "童装",
+        "id": 11842,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "安全座椅",
+        "id": 12193,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "童鞋",
+        "id": 14941,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "亲子乐园",
+        "id": 17467,
+        "parentId": 1319
+    },
+    {
+        "grade": 1,
+        "name": "生活日用",
+        "id": 1624,
+        "parentId": 1620
+    },
+    {
+        "grade": 1,
+        "name": "家装软饰",
+        "id": 11158,
+        "parentId": 1620
+    },
+    {
+        "grade": 1,
+        "name": "收纳用品",
+        "id": 13780,
+        "parentId": 1620
+    },
+    {
+        "grade": 1,
+        "name": "建筑",
+        "id": 3284,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "医学",
+        "id": 3285,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "科学与自然",
+        "id": 3286,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "计算机与互联网",
+        "id": 3287,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "文化",
+        "id": 3280,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "社会科学",
+        "id": 3281,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "工业技术",
+        "id": 3282,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "字典词典/工具书",
+        "id": 3294,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "运动/健身",
+        "id": 3288,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "中小学教辅",
+        "id": 3289,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "考试",
+        "id": 3290,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "外语学习",
+        "id": 3291,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "养生/保健",
+        "id": 3269,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "旅游/地图",
+        "id": 3271,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "家教",
+        "id": 3270,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "金融与投资",
+        "id": 3265,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "经济",
+        "id": 3264,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "励志与成功",
+        "id": 3267,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "管理",
+        "id": 3266,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "法律",
+        "id": 3277,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "政治/军事",
+        "id": 3276,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "心理学",
+        "id": 3279,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "历史",
+        "id": 3273,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "动漫",
+        "id": 3272,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "国学/古籍",
+        "id": 3275,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "哲学",
+        "id": 3274,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "套装书",
+        "id": 3296,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "小说",
+        "id": 3258,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "文学",
+        "id": 3259,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "艺术",
+        "id": 3262,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "童书",
+        "id": 3263,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "青春文学",
+        "id": 3260,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "传记",
+        "id": 3261,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "杂志/期刊",
+        "id": 4758,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "进口原版",
+        "id": 4855,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "港台图书",
+        "id": 6929,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "烹饪/美食",
+        "id": 9278,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "时尚/美妆",
+        "id": 9291,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "婚恋与两性",
+        "id": 9309,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "家居",
+        "id": 9301,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "娱乐/休闲",
+        "id": 9314,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "科普读物",
+        "id": 9340,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "电子与通信",
+        "id": 9351,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "农业/林业",
+        "id": 9368,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "大中专教材教辅",
+        "id": 11047,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "文化用品",
+        "id": 11745,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "摄影",
+        "id": 12776,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "绘画",
+        "id": 12775,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "书法",
+        "id": 13627,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "育儿",
+        "id": 13613,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "音乐",
+        "id": 13634,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "日文图书",
+        "id": 14669,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "宗教",
+        "id": 25558,
+        "parentId": 1713
+    },
+    {
+        "grade": 1,
+        "name": "奢侈品",
+        "id": 2615,
+        "parentId": 1672
+    },
+    {
+        "grade": 1,
+        "name": "礼品",
+        "id": 2599,
+        "parentId": 1672
+    },
+    {
+        "grade": 1,
+        "name": "婚庆",
+        "id": 12059,
+        "parentId": 1672
+    },
+    {
+        "grade": 1,
+        "name": "鲜花",
+        "id": 14227,
+        "parentId": 1672
+    },
+    {
+        "grade": 1,
+        "name": "火机烟具",
+        "id": 14226,
+        "parentId": 1672
+    },
+    {
+        "grade": 1,
+        "name": "游戏",
+        "id": 4901,
+        "parentId": 4053
+    },
+    {
+        "grade": 1,
+        "name": "软件",
+        "id": 4902,
+        "parentId": 4053
+    },
+    {
+        "grade": 1,
+        "name": "音乐",
+        "id": 17338,
+        "parentId": 4053
+    },
+    {
+        "grade": 1,
+        "name": "影视",
+        "id": 17339,
+        "parentId": 4053
+    },
+    {
+        "grade": 1,
+        "name": "IP商品",
+        "id": 17340,
+        "parentId": 4053
+    },
+    {
+        "grade": 1,
+        "name": "教育音像",
+        "id": 17341,
+        "parentId": 4053
+    },
+    {
+        "grade": 1,
+        "name": "IP在线服务",
+        "id": 17449,
+        "parentId": 4053
+    },
+    {
+        "grade": 1,
+        "name": "机票预定",
+        "id": 4939,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "演出票务",
+        "id": 4943,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "通讯充值",
+        "id": 4941,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "酒店 预定",
+        "id": 7076,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "彩票 ",
+        "id": 7075,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "旅游度假",
+        "id": 7089,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "地面交通票务",
+        "id": 7088,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "租车服务",
+        "id": 7090,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "游戏/视频服务",
+        "id": 9394,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "生活服务",
+        "id": 11760,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "邮轮",
+        "id": 12303,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "签证送关",
+        "id": 12300,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "当地玩乐",
+        "id": 12420,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "生活缴费",
+        "id": 14409,
+        "parentId": 4938
+    },
+    {
+        "grade": 1,
+        "name": "腕表",
+        "id": 5026,
+        "parentId": 5025
+    },
+    {
+        "grade": 1,
+        "name": "时钟",
+        "id": 15674,
+        "parentId": 5025
+    },
+    {
+        "grade": 1,
+        "name": "钟表配件",
+        "id": 15678,
+        "parentId": 5025
+    },
+    {
+        "grade": 1,
+        "name": "钟表服务",
+        "id": 15680,
+        "parentId": 5025
+    },
+    {
+        "grade": 1,
+        "name": "艺术摄影",
+        "id": 5282,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "少儿",
+        "id": 5283,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "人物传记",
+        "id": 5281,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "成功励志",
+        "id": 5287,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "家教育儿",
+        "id": 5290,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "漫画杂志",
+        "id": 5292,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "历史考古",
+        "id": 5293,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "社会科学",
+        "id": 5301,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "计算机",
+        "id": 5307,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "科学新知",
+        "id": 5306,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "外语学习",
+        "id": 5311,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "文学",
+        "id": 5279,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "小说",
+        "id": 5278,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "进口原版",
+        "id": 6828,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "男生原创",
+        "id": 10941,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "教材教辅",
+        "id": 10921,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "经济管理",
+        "id": 10846,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "女生原创",
+        "id": 14155,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "知识服务",
+        "id": 14384,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "生活休闲",
+        "id": 16972,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "中外名著",
+        "id": 16973,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "影视原著",
+        "id": 16968,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "职场进阶",
+        "id": 16969,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "政治军事",
+        "id": 16970,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "互联网+",
+        "id": 16971,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "在线音频",
+        "id": 21019,
+        "parentId": 5272
+    },
+    {
+        "grade": 1,
+        "name": "刀剪菜板",
+        "id": 6198,
+        "parentId": 6196
+    },
+    {
+        "grade": 1,
+        "name": "烹饪锅具",
+        "id": 6197,
+        "parentId": 6196
+    },
+    {
+        "grade": 1,
+        "name": "餐具",
+        "id": 6227,
+        "parentId": 6196
+    },
+    {
+        "grade": 1,
+        "name": "厨房配件",
+        "id": 6214,
+        "parentId": 6196
+    },
+    {
+        "grade": 1,
+        "name": "水具酒具",
+        "id": 6219,
+        "parentId": 6196
+    },
+    {
+        "grade": 1,
+        "name": "酒店用品",
+        "id": 9182,
+        "parentId": 6196
+    },
+    {
+        "grade": 1,
+        "name": "茶具",
+        "id": 11143,
+        "parentId": 6196
+    },
+    {
+        "grade": 1,
+        "name": "咖啡具",
+        "id": 16817,
+        "parentId": 6196
+    },
+    {
+        "grade": 1,
+        "name": "时尚饰品",
+        "id": 6182,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "钻石",
+        "id": 6160,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "翡翠",
+        "id": 6167,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "水晶玛瑙",
+        "id": 6172,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "彩宝",
+        "id": 6174,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "黄金",
+        "id": 6145,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "金银投资",
+        "id": 6146,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "银饰",
+        "id": 6155,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "铂金",
+        "id": 12040,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "木手串/把件",
+        "id": 12041,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "珍珠",
+        "id": 12042,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "K金饰品",
+        "id": 13062,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "发饰",
+        "id": 13915,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "其它玉石",
+        "id": 19934,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "和田玉",
+        "id": 19933,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "合成/人造宝石",
+        "id": 19949,
+        "parentId": 6144
+    },
+    {
+        "grade": 1,
+        "name": "创意减压",
+        "id": 6289,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "其它乐器",
+        "id": 6291,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "积木拼插",
+        "id": 6275,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "绘画/DIY",
+        "id": 6279,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "跳舞毯/游戏毯",
+        "id": 6260,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "早教/智能玩具",
+        "id": 6271,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "潮玩/动漫",
+        "id": 6264,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "静态模型",
+        "id": 6253,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "毛绒布艺",
+        "id": 6236,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "娃娃玩具",
+        "id": 6237,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "遥控/电动玩具",
+        "id": 6235,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "教学乐器",
+        "id": 18616,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "西洋弦乐器",
+        "id": 18614,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "键盘乐器",
+        "id": 18615,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "西洋打击乐器",
+        "id": 18612,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "西洋管乐器",
+        "id": 18613,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "民族弹拨乐器",
+        "id": 18610,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "民族拉弦乐器",
+        "id": 18611,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "民族吹奏乐器",
+        "id": 18608,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "民族打击乐器",
+        "id": 18609,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "乐器配件",
+        "id": 18607,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "STEAM教玩具",
+        "id": 21291,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "响铃/安抚玩具",
+        "id": 21802,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "拆装/敲打玩具",
+        "id": 21803,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "串珠/配对玩具",
+        "id": 21804,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "发光/充气玩具",
+        "id": 21805,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "惯性/发条玩具",
+        "id": 21806,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "仿真/过家家玩具",
+        "id": 21807,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "油动/电动模型",
+        "id": 21808,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "儿童变形玩具",
+        "id": 21809,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "儿童玩具枪",
+        "id": 21810,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "户外玩具/游乐设施",
+        "id": 21811,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "健身架/爬行学步玩具",
+        "id": 21812,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "戏水玩沙玩具",
+        "id": 21813,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "魔方解锁/迷宫",
+        "id": 21814,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "音乐玩具",
+        "id": 21815,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "MIDI乐器",
+        "id": 22379,
+        "parentId": 6233
+    },
+    {
+        "grade": 1,
+        "name": "宠物主粮",
+        "id": 6995,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "猫狗日用",
+        "id": 6998,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "猫狗玩具",
+        "id": 6999,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "宠物零食",
+        "id": 6996,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "宠物医疗保健",
+        "id": 6997,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "猫狗出行",
+        "id": 7000,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "洗护美容",
+        "id": 7001,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "异宠用品",
+        "id": 13963,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "水族",
+        "id": 13968,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "宠物活体",
+        "id": 14374,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "宠物服务",
+        "id": 14692,
+        "parentId": 6994
+    },
+    {
+        "grade": 1,
+        "name": "车载电器",
+        "id": 6740,
+        "parentId": 6728
+    },
+    {
+        "grade": 1,
+        "name": "维修保养",
+        "id": 6742,
+        "parentId": 6728
+    },
+    {
+        "grade": 1,
+        "name": "美容清洗",
+        "id": 6743,
+        "parentId": 6728
+    },
+    {
+        "grade": 1,
+        "name": "汽车装饰",
+        "id": 6745,
+        "parentId": 6728
+    },
+    {
+        "grade": 1,
+        "name": "安全自驾",
+        "id": 6747,
+        "parentId": 6728
+    },
+    {
+        "grade": 1,
+        "name": "汽车服务",
+        "id": 12402,
+        "parentId": 6728
+    },
+    {
+        "grade": 1,
+        "name": "赛事改装",
+        "id": 13256,
+        "parentId": 6728
+    },
+    {
+        "grade": 1,
+        "name": "传统滋补",
+        "id": 9195,
+        "parentId": 9192
+    },
+    {
+        "grade": 1,
+        "name": "营养成分",
+        "id": 9194,
+        "parentId": 9192
+    },
+    {
+        "grade": 1,
+        "name": "营养健康",
+        "id": 9193,
+        "parentId": 9192
+    },
+    {
+        "grade": 1,
+        "name": "保健器械",
+        "id": 9197,
+        "parentId": 9192
+    },
+    {
+        "grade": 1,
+        "name": "计生情趣",
+        "id": 9196,
+        "parentId": 9192
+    },
+    {
+        "grade": 1,
+        "name": "护理护具",
+        "id": 12190,
+        "parentId": 9192
+    },
+    {
+        "grade": 1,
+        "name": "隐形眼镜",
+        "id": 13893,
+        "parentId": 9192
+    },
+    {
+        "grade": 1,
+        "name": "健康服务",
+        "id": 14203,
+        "parentId": 9192
+    },
+    {
+        "grade": 1,
+        "name": "装修服务",
+        "id": 9862,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "装饰材料",
+        "id": 9861,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "墙地面材料",
+        "id": 9860,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "电工电料",
+        "id": 9859,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "五金工具",
+        "id": 9858,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "厨房卫浴",
+        "id": 9857,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "灯饰照明",
+        "id": 9856,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "基建材料",
+        "id": 17084,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "基建辅助设施",
+        "id": 21298,
+        "parentId": 9855
+    },
+    {
+        "grade": 1,
+        "name": "客厅家具",
+        "id": 9849,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "卧室家具",
+        "id": 9848,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "书房家具",
+        "id": 9851,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "餐厅家具",
+        "id": 9850,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "阳台/户外",
+        "id": 9853,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "储物家具",
+        "id": 9852,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "商业办公",
+        "id": 9854,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "儿童家具",
+        "id": 13533,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "套房家具",
+        "id": 15106,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "红木家具",
+        "id": 21035,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "定制家具",
+        "id": 21036,
+        "parentId": 9847
+    },
+    {
+        "grade": 1,
+        "name": "流行男鞋",
+        "id": 11730,
+        "parentId": 11729
+    },
+    {
+        "grade": 1,
+        "name": "时尚女鞋",
+        "id": 11731,
+        "parentId": 11729
+    },
+    {
+        "grade": 1,
+        "name": "海鲜水产",
+        "id": 12222,
+        "parentId": 12218
+    },
+    {
+        "grade": 1,
+        "name": "水果",
+        "id": 12221,
+        "parentId": 12218
+    },
+    {
+        "grade": 1,
+        "name": "乳品冷饮",
+        "id": 13598,
+        "parentId": 12218
+    },
+    {
+        "grade": 1,
+        "name": "禽肉蛋品",
+        "id": 13586,
+        "parentId": 12218
+    },
+    {
+        "grade": 1,
+        "name": "面点烘焙",
+        "id": 13591,
+        "parentId": 12218
+    },
+    {
+        "grade": 1,
+        "name": "猪牛羊肉",
+        "id": 13581,
+        "parentId": 12218
+    },
+    {
+        "grade": 1,
+        "name": "蔬菜",
+        "id": 13553,
+        "parentId": 12218
+    },
+    {
+        "grade": 1,
+        "name": "速食熟食",
+        "id": 21455,
+        "parentId": 12218
+    },
+    {
+        "grade": 1,
+        "name": "白酒",
+        "id": 12260,
+        "parentId": 12259
+    },
+    {
+        "grade": 1,
+        "name": "收藏酒/陈年老酒",
+        "id": 14718,
+        "parentId": 12259
+    },
+    {
+        "grade": 1,
+        "name": "啤酒",
+        "id": 14716,
+        "parentId": 12259
+    },
+    {
+        "grade": 1,
+        "name": "黄酒/养生酒",
+        "id": 14717,
+        "parentId": 12259
+    },
+    {
+        "grade": 1,
+        "name": "葡萄酒",
+        "id": 14714,
+        "parentId": 12259
+    },
+    {
+        "grade": 1,
+        "name": "洋酒",
+        "id": 14715,
+        "parentId": 12259
+    },
+    {
+        "grade": 1,
+        "name": "团购商品",
+        "id": 12368,
+        "parentId": 12367
+    },
+    {
+        "grade": 1,
+        "name": "传统乘用车",
+        "id": 12380,
+        "parentId": 12379
+    },
+    {
+        "grade": 1,
+        "name": "二手车",
+        "id": 13302,
+        "parentId": 12379
+    },
+    {
+        "grade": 1,
+        "name": "新能源汽车",
+        "id": 22096,
+        "parentId": 12379
+    },
+    {
+        "grade": 1,
+        "name": "花卉绿植",
+        "id": 12480,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "园林/农耕",
+        "id": 12479,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "农药",
+        "id": 12565,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "肥料",
+        "id": 12566,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "种子",
+        "id": 12558,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "养殖器具",
+        "id": 13058,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "饲料",
+        "id": 13050,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "兽药",
+        "id": 13054,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "园艺用品",
+        "id": 17418,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "农膜遮网/大棚",
+        "id": 17438,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "园艺生活",
+        "id": 17427,
+        "parentId": 12473
+    },
+    {
+        "grade": 1,
+        "name": "泌尿系统用药",
+        "id": 13354,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "五官用药",
+        "id": 13349,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "皮肤及性病用药",
+        "id": 13362,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "男科专科用药",
+        "id": 13326,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "妇科专科用药",
+        "id": 13315,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "风湿骨外专科用药",
+        "id": 13335,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "心脑血管用药",
+        "id": 13430,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "内分泌用药",
+        "id": 13424,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "肿瘤用药",
+        "id": 13388,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "呼吸系统用药",
+        "id": 13380,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "抗感染用药",
+        "id": 13488,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "消化系统用药",
+        "id": 13446,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "肝胆用药",
+        "id": 13456,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "神经系统用药",
+        "id": 13468,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "儿科专科用药",
+        "id": 13494,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "补益安神",
+        "id": 13500,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "解热镇痛",
+        "id": 13504,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "血液系统用药",
+        "id": 13518,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "移植用药",
+        "id": 13527,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "中药饮片",
+        "id": 13693,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "挂号",
+        "id": 15057,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "在线问诊",
+        "id": 15056,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "健康服务套餐",
+        "id": 20076,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "非处方药",
+        "id": 21909,
+        "parentId": 13314
+    },
+    {
+        "grade": 1,
+        "name": "语言培训",
+        "id": 13684,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "营地/游学",
+        "id": 13682,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "出国留学",
+        "id": 13683,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "中小学辅导",
+        "id": 13679,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "青少年素质培养",
+        "id": 14042,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "考证培训",
+        "id": 15587,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "职业技能培训",
+        "id": 15594,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "早教幼教",
+        "id": 15571,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "兴趣生活",
+        "id": 17026,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "学历考试辅导",
+        "id": 21470,
+        "parentId": 13678
+    },
+    {
+        "grade": 1,
+        "name": "二手手机通讯",
+        "id": 13767,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手摄影摄像",
+        "id": 13772,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手电脑整机",
+        "id": 13769,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手网络产品",
+        "id": 13836,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手影音娱乐",
+        "id": 13833,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手外设产品",
+        "id": 13830,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手电脑配件",
+        "id": 13826,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手办公设备",
+        "id": 13855,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手游戏设备",
+        "id": 13866,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手智能设备",
+        "id": 13859,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手健身训练",
+        "id": 14168,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手骑行运动",
+        "id": 14172,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手户外装备",
+        "id": 14176,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手童车童床",
+        "id": 14181,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手奢侈品",
+        "id": 14192,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手玩具",
+        "id": 14185,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手乐器",
+        "id": 14189,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手卧室家具",
+        "id": 14454,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手厨卫大电",
+        "id": 14450,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手厨房小电",
+        "id": 14444,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手尿裤湿巾",
+        "id": 14422,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手生活电器",
+        "id": 14430,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手大家电",
+        "id": 14424,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手书房家具",
+        "id": 14467,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手客厅家具",
+        "id": 14461,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手户外鞋服",
+        "id": 14512,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手电子教育",
+        "id": 14505,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手个护健康",
+        "id": 14656,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手游泳用品",
+        "id": 14658,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手数码配件",
+        "id": 14634,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手木手串/把件",
+        "id": 14597,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手婴童喂养用品",
+        "id": 14522,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手办公家具",
+        "id": 14821,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手书",
+        "id": 15155,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手香水彩妆",
+        "id": 15467,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手手机配件",
+        "id": 15450,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "二手女装",
+        "id": 15437,
+        "parentId": 13765
+    },
+    {
+        "grade": 1,
+        "name": "邮票",
+        "id": 13889,
+        "parentId": 13887
+    },
+    {
+        "grade": 1,
+        "name": "邮资封片",
+        "id": 13931,
+        "parentId": 13887
+    },
+    {
+        "grade": 1,
+        "name": "钱币",
+        "id": 13922,
+        "parentId": 13887
+    },
+    {
+        "grade": 1,
+        "name": "磁卡",
+        "id": 13946,
+        "parentId": 13887
+    },
+    {
+        "grade": 1,
+        "name": "票证",
+        "id": 13950,
+        "parentId": 13887
+    },
+    {
+        "grade": 1,
+        "name": "礼品册",
+        "id": 13958,
+        "parentId": 13887
+    },
+    {
+        "grade": 1,
+        "name": "其他",
+        "id": 13960,
+        "parentId": 13887
+    },
+    {
+        "grade": 1,
+        "name": "收藏工具",
+        "id": 15153,
+        "parentId": 13887
+    },
+    {
+        "grade": 1,
+        "name": "名人明星",
+        "id": 13998,
+        "parentId": 13996
+    },
+    {
+        "grade": 1,
+        "name": "影音综艺",
+        "id": 14015,
+        "parentId": 13996
+    },
+    {
+        "grade": 1,
+        "name": "社交媒体",
+        "id": 14008,
+        "parentId": 13996
+    },
+    {
+        "grade": 1,
+        "name": "动漫游戏",
+        "id": 14022,
+        "parentId": 13996
+    },
+    {
+        "grade": 1,
+        "name": "文学文化",
+        "id": 14028,
+        "parentId": 13996
+    },
+    {
+        "grade": 1,
+        "name": "文体活动",
+        "id": 14032,
+        "parentId": 13996
+    },
+    {
+        "grade": 1,
+        "name": "其他",
+        "id": 14040,
+        "parentId": 13996
+    },
+    {
+        "grade": 1,
+        "name": "金属加工",
+        "id": 14108,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "个人防护",
+        "id": 14099,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "焊接用品",
+        "id": 14090,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "化学品",
+        "id": 14086,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "动力传动",
+        "id": 14141,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "实验室用品",
+        "id": 14137,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "气动液压",
+        "id": 14134,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "紧固密封件",
+        "id": 14130,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "公共设施",
+        "id": 14126,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "清洁用品",
+        "id": 14113,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "安防用品",
+        "id": 14066,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "标签包装",
+        "id": 14070,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "搬运存储",
+        "id": 14076,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "中低压配电",
+        "id": 14079,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "起重设备",
+        "id": 14993,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "无源元件",
+        "id": 15303,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "嵌入式处理器",
+        "id": 15322,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "晶体与晶振",
+        "id": 15316,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "集成电路",
+        "id": 15332,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "元器件电路保护",
+        "id": 15353,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "分立器件",
+        "id": 15347,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "机电器件",
+        "id": 15411,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "无线模块与适配器",
+        "id": 15405,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "传感器",
+        "id": 15394,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "模块电源",
+        "id": 15386,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "电子连接器",
+        "id": 15361,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "工控自动化",
+        "id": 15673,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "电线电缆",
+        "id": 15831,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "电料辅件",
+        "id": 15827,
+        "parentId": 14065
+    },
+    {
+        "grade": 1,
+        "name": "国内商业房产",
+        "id": 15090,
+        "parentId": 15083
+    },
+    {
+        "grade": 1,
+        "name": "海外房产",
+        "id": 15093,
+        "parentId": 15083
+    },
+    {
+        "grade": 1,
+        "name": "国内一手住宅",
+        "id": 15084,
+        "parentId": 15083
+    },
+    {
+        "grade": 1,
+        "name": "租房",
+        "id": 15116,
+        "parentId": 15083
+    },
+    {
+        "grade": 1,
+        "name": "绘画/摄影",
+        "id": 15127,
+        "parentId": 15126
+    },
+    {
+        "grade": 1,
+        "name": "书法",
+        "id": 15128,
+        "parentId": 15126
+    },
+    {
+        "grade": 1,
+        "name": "雕塑",
+        "id": 15129,
+        "parentId": 15126
+    },
+    {
+        "grade": 1,
+        "name": "陶瓷/玉器",
+        "id": 15130,
+        "parentId": 15126
+    },
+    {
+        "grade": 1,
+        "name": "床上用品",
+        "id": 15249,
+        "parentId": 15248
+    },
+    {
+        "grade": 1,
+        "name": "居家布艺",
+        "id": 15250,
+        "parentId": 15248
+    },
+    {
+        "grade": 1,
+        "name": "清洁纸品",
+        "id": 15902,
+        "parentId": 15901
+    },
+    {
+        "grade": 1,
+        "name": "清洁用具",
+        "id": 15903,
+        "parentId": 15901
+    },
+    {
+        "grade": 1,
+        "name": "家庭环境清洁",
+        "id": 15905,
+        "parentId": 15901
+    },
+    {
+        "grade": 1,
+        "name": "衣物清洁",
+        "id": 15904,
+        "parentId": 15901
+    },
+    {
+        "grade": 1,
+        "name": "皮具护理",
+        "id": 15907,
+        "parentId": 15901
+    },
+    {
+        "grade": 1,
+        "name": "驱蚊驱虫",
+        "id": 15906,
+        "parentId": 15901
+    },
+    {
+        "grade": 1,
+        "name": "京东特色服务",
+        "id": 15984,
+        "parentId": 15980
+    },
+    {
+        "grade": 1,
+        "name": "安装/调试服务",
+        "id": 15981,
+        "parentId": 15980
+    },
+    {
+        "grade": 1,
+        "name": "清洗/保养服务",
+        "id": 15983,
+        "parentId": 15980
+    },
+    {
+        "grade": 1,
+        "name": "身体护理",
+        "id": 16753,
+        "parentId": 16750
+    },
+    {
+        "grade": 1,
+        "name": "美发假发/造型",
+        "id": 16752,
+        "parentId": 16750
+    },
+    {
+        "grade": 1,
+        "name": "口腔护理",
+        "id": 16755,
+        "parentId": 16750
+    },
+    {
+        "grade": 1,
+        "name": "女性护理",
+        "id": 16754,
+        "parentId": 16750
+    },
+    {
+        "grade": 1,
+        "name": "洗发护发",
+        "id": 16751,
+        "parentId": 16750
+    },
+    {
+        "grade": 1,
+        "name": "功能箱包",
+        "id": 2577,
+        "parentId": 17329
+    },
+    {
+        "grade": 1,
+        "name": "精品男包",
+        "id": 2576,
+        "parentId": 17329
+    },
+    {
+        "grade": 1,
+        "name": "潮流女包",
+        "id": 2575,
+        "parentId": 17329
+    },
+    {
+        "grade": 1,
+        "name": "箱包皮具配件",
+        "id": 17330,
+        "parentId": 17329
+    },
+    {
+        "grade": 1,
+        "name": "非遗编扎制",
+        "id": 18531,
+        "parentId": 18528
+    },
+    {
+        "grade": 1,
+        "name": "非遗陶瓷烧造",
+        "id": 18529,
+        "parentId": 18528
+    },
+    {
+        "grade": 1,
+        "name": "非遗纺染织绣",
+        "id": 18532,
+        "parentId": 18528
+    },
+    {
+        "grade": 1,
+        "name": "非遗金属加工",
+        "id": 18533,
+        "parentId": 18528
+    },
+    {
+        "grade": 1,
+        "name": "非遗漆器",
+        "id": 18536,
+        "parentId": 18528
+    },
+    {
+        "grade": 1,
+        "name": "健康管理",
+        "id": 27157,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "口腔齿科",
+        "id": 27410,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "医疗美容",
+        "id": 27417,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "疫苗服务",
+        "id": 27437,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "基因检测",
+        "id": 27444,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "健康体检",
+        "id": 27451,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "孕产服务",
+        "id": 27457,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "细胞存储",
+        "id": 27463,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "眼科服务",
+        "id": 27466,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "康养康复",
+        "id": 27471,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "心理咨询",
+        "id": 27474,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "中医服务",
+        "id": 27481,
+        "parentId": 27156
+    },
+    {
+        "grade": 1,
+        "name": "生活美容",
+        "id": 27484,
+        "parentId": 27156
+    }
+]
