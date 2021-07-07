@@ -1,7 +1,8 @@
 # mini-server
 电商小程序后端服务器
 
-## 技术栈 Node.js + koa2 + koa-router + mongodb(数据库) + mongoose + jwt(制作token， token校验)
+## 技术栈:
+   Node.js + koa2 + koa-router + mongodb(数据库) + mongoose + jwt(制作token， token校验)
 
 ## 打开方式
   1. 项目根目录运行命令 ` npm i `, 安装第三方包
